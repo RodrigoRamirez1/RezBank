@@ -5,7 +5,7 @@
 ```
 Sobre o Projeto:
 ```
-> O RezBank é um banco digital onde podesse cadastrar clientes, verificar conta Corrente, Conta Poupança, Saldo, Saque e bonificações. 
+> O RezBank é um banco digital de cadastro de cliente, criação de Conta Corrente, Conta Poupança e Sistema de Autenticação, de verificação de Saldo, Saque e bonificação. 
 <br>
 
 ```
